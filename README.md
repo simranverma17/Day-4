@@ -16,6 +16,3 @@ This project demonstrates basic DOM manipulation using JavaScript. It includes s
 ## 🚀 Project Features
 - A simple webpage with interactive elements
 - Event listeners that respond to user actions (e.g., button clicks, input events)
-- Real-time DOM updates such as showing/hiding elements, changing styles, or content updates
-
----
