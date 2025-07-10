@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM MANIPULATION</title>
+    <style>
+        body{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 100px;
+        }
+        button{
+            padding:10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="mainHeading">Hello, World!</h1>
+    <button id="btn">Change Text</button>
+
+    <script>
+        const heading = document.getElementById("mainHeading");
+        const button = document.getElementById("btn");
+
+        button.addEventListener("click", function(){
+            heading.textContent = "you clicked the button!";
+        });
+    </script>
+</body>
+</html>
