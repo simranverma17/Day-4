@@ -1,2 +1,21 @@
-# Day-4
-This task involves creating a simple interactive webpage using DOM manipulation. It includes selecting and modifying HTML elements and implementing event listeners to handle user interactions like clicks or input events.
+# DOM Manipulation - Interactive Webpage
+
+## 📅 Day 4 Task: DOM Manipulation
+
+This project demonstrates basic DOM manipulation using JavaScript. It includes selecting and modifying HTML elements and implementing event listeners to respond to user interactions.
+
+---
+
+## 📚 Topics Covered
+- Document Object Model (DOM) Basics
+- Selecting and Modifying Elements
+- Event Handling in JavaScript
+
+---
+
+## 🚀 Project Features
+- A simple webpage with interactive elements
+- Event listeners that respond to user actions (e.g., button clicks, input events)
+- Real-time DOM updates such as showing/hiding elements, changing styles, or content updates
+
+---
